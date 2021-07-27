@@ -1,5 +1,5 @@
 ---
-Title: Upcoming Topics on ARKLegalTech Talk
+Title: "Upcoming-Topics-on-ARKLegalTech-Talk"
 Date: 2021-07-27
 ---
 Here are some topics I plan to cover soon:
